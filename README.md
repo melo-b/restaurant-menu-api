@@ -7,6 +7,10 @@ A simple RESTful API for managing restaurant menu items and categories using Dja
 - Category relationships
 - RESTful endpoints using DRF
 - Browsable API interface
+- Token-based authentication
+- Pagination, filtering, searching
+- Swagger API documentation
+- Unit testing with Django test client
 
 ## Endpoints
 - `/api/categories/`
